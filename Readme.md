@@ -1,0 +1,1 @@
+Todos os algoritimos estão funcionais e todas as questões das Listas estão passando nos casos teste do iudex, com exceção da questão Goleiro Sistemas da Lista 2 Que está passando em 3 dos 4 casos teste (por algum erro de alocação de memória, coisas do C).
